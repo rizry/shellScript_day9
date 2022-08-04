@@ -4,9 +4,6 @@ isFullTime=1;
 isPartTime=2;
 empRatePerHr=20;
 
-
-
-
 workingDays=20;
 empHrs=0;
 while [ $workingDays -gt 0 ]; do
